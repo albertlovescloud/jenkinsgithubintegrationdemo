@@ -3,4 +3,4 @@ echo "This is sample repo for jenkins-github integration demo"
 Testing email notification
 Add one more line.
 
-New comment.
+New comment by Albert.
